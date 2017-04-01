@@ -1,0 +1,7 @@
+Instructions
+  1. Go to lib folder in terminal
+  2. run the pipe.js file with your unix commands
+  3. use '|' instead of pipe operator(|)
+
+Example
+  node pipe.js ls -la '|' grep pipe
